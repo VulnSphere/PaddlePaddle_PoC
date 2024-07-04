@@ -1,2 +1,2 @@
 # PaddlePaddle_PoC
-This is the PoC repository of PaddlePaddle.
+This is the PoC repository of PaddlePaddle. Updating...
